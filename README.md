@@ -2,7 +2,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![status](https://img.shields.io/badge/status-Em%20produção-brightgreen)
+![status](https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen)
 ![author](https://img.shields.io/badge/author-Welbber%20Marques-orange)
 
 # Acerto Colportores
