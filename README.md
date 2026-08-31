@@ -1,7 +1,7 @@
 ![platform](https://img.shields.io/badge/platform-Web-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6)
-![license](https://img.shields.io/badge/license-Proprietary-lightgrey)
+![license](https://img.shields.io/badge/license-MIT-green)
 ![status](https://img.shields.io/badge/status-Em%20produção-brightgreen)
 ![author](https://img.shields.io/badge/author-Welbber%20Marques-orange)
 
@@ -38,6 +38,3 @@ Sistema web de gestão financeira para equipes de colportagem (vendas porta a po
 - Erros sanitizados antes de chegar ao cliente (nunca vaza detalhe de infraestrutura interna).
 - Tokens dedicados e isolados para cada integração servidor-a-servidor.
 
-## Autoria
-
-Projeto individual, desenvolvido e mantido por **Welbber Marques** — da concepção do banco de dados até a infraestrutura de produção (VPS, DNS, HTTPS, DDoS).
