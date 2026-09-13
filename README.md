@@ -40,4 +40,4 @@ Sistema web de gestão financeira para equipes de colportagem (vendas porta a po
 
 ## Agradecimento
 
-Agradeço, antes de tudo, a Deus Todo-Poderoso, fonte de todo o conhecimento, sem o qual nada disso seria possível.
+Primeiramente, gostaria de agradecer ao Deus Todo-Poderoso, que é a fonte de todo o conhecimento. Sem Ele, isso não seria possível.
