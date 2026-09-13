@@ -38,3 +38,6 @@ Sistema web de gestão financeira para equipes de colportagem (vendas porta a po
 - Erros sanitizados antes de chegar ao cliente (nunca vaza detalhe de infraestrutura interna).
 - Tokens dedicados e isolados para cada integração servidor-a-servidor.
 
+## Agradecimento
+
+Agradeço, antes de tudo, a Deus Todo-Poderoso, fonte de todo o conhecimento, sem o qual nada disso seria possível.
